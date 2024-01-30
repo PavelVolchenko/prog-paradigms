@@ -9,7 +9,6 @@ def print_table(columns):
 
 
 columns = int(input("Enter the number of columns table: "))
-print_table(columns)
 
 # Структурная парадигма — возможность быстрой проверки кода на работоспособность
 for i in range(1, columns + 1):

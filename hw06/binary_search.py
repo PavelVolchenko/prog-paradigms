@@ -20,7 +20,7 @@ class BinarySearch:
         return -1
 
 
-arr = [1, 2, 3, 5, 7, 9, 11, 13]
-n = 13
+array = [1, 2, 3, 5, 7, 9, 11, 13]
+number = 13
 
-print(BinarySearch(arr, n).search())
+print(BinarySearch(array, number).search())
